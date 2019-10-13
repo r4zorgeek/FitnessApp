@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">The FItness</string>
+    <string name="title_activity_scrolling">ScrollingActivity</string>
+    <string name="large_text">
+        "The Muscle Building Workout Routine uses an upper/lower split, which is the split most often used and recommended by literally every single expert whose opinions I value (as opposed to the drugged up genetic freaks whose opinions are meaningless).
+The big reason the upper/lower split gets so much love is because it allows for each muscle group/body part to be trained to some degree between once every 3rd and 5th day depending on the specific split variation you choose (more on those in a second).
+And, as I’ve previously explained, this workout frequency of about-twice-per-week is what is scientifically proven to work best for building muscle for anyone past the beginner’s stage.
+So, let’s take a look at the 2 most common versions of the upper/lower split…
+        Upper/Lower Split: 4 Day Version
+        In this 4 day version, each muscle group gets trained once every 3rd or 4th day, which is right within the ideal frequency range for building muscle mass at the optimal rate.
+While this specific template is probably the most common (people like having weekends off), the exact days you choose really doesn’t matter as long as the same 2 on/1 off/2 on/2 off format is kept intact.
+
+        Upper/Lower Split: 3 Day Version
+    In this 3 day version, each muscle group gets trained once every 4th or 5th day. While it is just slightly less frequent than the 4 day version, it’s still perfectly within the ideal frequency range for building muscle mass at the optimal rate.
+And once again, while this template is usually the most common, the exact days you choose doesn’t matter at all as long as the same 1 on/1 off/1 on/1 off/1 on/2 off format is kept in tact.
+        "
+    </string>
+    <string name="armsText">"Most arm workouts are frighteningly poorly designed. Let's fix the 4 most common training mistakes on arm day so you can achieve results so good they're scary.
+Guys want big arms. That's never more apparent than when you see lines forming at the preacher bench and press-down stations. Most lifters don't come prepared with a plan of attack other than doing as many sets as possible and repeating it again a few days later.
+These four common mistakes create a mile-wide gap between people wanting big biceps and triceps and people actually stretching out shirtsleeves. Let's fix them and put together a routine that'll deliver monster results and an even more ferocious pump!
+        THE FIX
+For biceps, with your arms in front of your torso (think preacher curls), you target more on the biceps' short head; when your arms are behind your torso (think incline bench dumbbell curls), you better focus on the long head. Likewise, using a neutral grip (hammer curls) and taking a closer or wider grip on the barbell during standing curls each recruits the arm flexors in slightly different ways.
+
+For triceps, when your arms are overhead you better target the long head, while going from an overhand to an underhand grip (as when doing press-downs) shifts the emphasis from the lateral to medial head.
+
+In sum, using a variety of grips and arm positions better emphasizes the various heads of your bis and tris for more complete development."</string>
+    <string name="item1">Item1</string>
+    <string name="item2">Item2</string>
+    <string name="item3">Item3</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_scrolling_arms">ScrollingArmsActivity</string>
+    <string name="title_activity_scrolling_abs">ScrollingAbsActivity</string>
+    <string name="title_activity_upper_body_content">UpperBodyContentActivity</string>
+
+    <string name="barbellbenchtext">1.Lie back on a flat bench. Using a medium width grip (a grip that creates a 90-degree angle in the middle of the movement between the forearms and the upper arms), lift the bar from the rack and hold it straight over you with your arms locked. This will be your starting position.
+                                    2.	From the starting position, breathe in and begin coming down slowly until the bar touches your middle chest.
+                                    3.	After a brief pause, push the bar back to the starting position as you breathe out. Focus on pushing the bar using your chest muscles. Lock your arms and squeeze your chest in the contracted position at the top of the motion, hold for a second and then start coming down slowly again. Tip: Ideally, lowering the weight should take about twice as long as raising it.
+                                    4.	Repeat the movement for the prescribed amount of repetitions.
+                                    5.	When you are done, place the bar back in the rack.
+*caution
+If you are new at this exercise, it is advised that you use a spotter. If no spotter is available, then be conservative with the amount of weight used.
+Also, beware of letting the bar drift too far forward. You want the bar to touch your middle chest and nowhere else.
+Don't bounce the weight off your chest. You should be in full control of the barbell at all times.
+</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_upper_body_scrolling">UpperBodyScrollingActivity</string>
+</resources>
